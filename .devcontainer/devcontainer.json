@@ -3,5 +3,6 @@
 	"image": "mcr.microsoft.com/devcontainers/python:1-3.12-bullseye",
 	"features": {
 		"ghcr.io/devcontainers/features/nvidia-cuda:2": {}
-	}
+	},
+	"updateContentCommand": "pip install --editable lib/ManipulaPy"
 }
