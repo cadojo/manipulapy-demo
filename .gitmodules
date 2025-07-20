@@ -1,0 +1,4 @@
+[submodule "lib/ManipulaPy"]
+	path = lib/ManipulaPy
+	url = https://github.com/boelnasr/ManipulaPy.git
+	branch = main
